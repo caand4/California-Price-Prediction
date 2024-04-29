@@ -1,7 +1,7 @@
-![image](https://github.com/caand4/California-Price-Prediction/assets/80293132/39d0511d-2fbe-416d-ae50-472fc01a6e5c)# California Price Prediction
+# California Price Prediction
 
 ## Objective
-![image](https://github.com/caand4/California-Price-Prediction/assets/80293132/6f85e81f-77ad-4611-9aca-b6d8cbe8fba3)
+
 #### Build
 Build a model framework to predict median house values in California using the provided dataset.
 
